@@ -1,0 +1,13 @@
+﻿Bank_Code,Process_Date,Version,Category,Category_Description,Sub_Category,Sub_Category_Description,Sub_Portfolio
+SGMA001,2023-12-29,1,B01,Souverains,B0101,Banques Centrales,S0101
+SGMA001,2023-12-29,1,B01,Souverains,B0102,Administrations Centrales,S0101
+SGMA001,2023-12-29,1,B01,Souverains,B0103,Autre souverain,S0109
+SGMA001,2023-12-29,1,B02,Établissements de Crédit,B0201,Etablissements de Crédit,S0406
+SGMA001,2023-12-29,1,B02,Établissements de Crédit,B0202,Banques multilatérales de développement,S0306
+SGMA001,2023-12-29,1,B02,Établissements de Crédit,B0203,Organisme public,S0206
+SGMA001,2023-12-29,1,B03,Entreprises,B0301,Grandes entreprises,S0601
+SGMA001,2023-12-29,1,B03,Entreprises,B0302,Petite ou Moyenne Entreprise (PME),S0602
+SGMA001,2023-12-29,1,B04,Clientèle de détail,B0401,Très petite entreprise (TPE),S0701
+SGMA001,2023-12-29,1,B04,Clientèle de détail,B0402,Particuliers,S0702
+SGMA001,2023-12-29,1,BNS,Non segmenté,B9899,Non segmenté,NULL
+SGMA001,2023-12-29,1,B99,Autre actif,B9999,Autre actif,NULL

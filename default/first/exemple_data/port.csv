@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,Portfolio,Portfolio_Description,Sub_Portfolio,Sub_Portfolio_Description,Weighting,WeightingCode,Default_Category
+B001,2024-03-20,1,Corporate,Corporate Banking,Portfolio A,High Net Worth,0.7,W1,Category A
+B002,2024-03-20,1,Retail,Retail Banking,Portfolio B,Mass Market,0.5,W2,Category B
+B003,2024-03-20,1,Wealth,Wealth Management,Portfolio C,Ultra High Net Worth,0.9,W3,Category C

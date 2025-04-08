@@ -1,0 +1,51 @@
+﻿Bank_Code,Process_Date,Version,Portfolio,Portfolio_Description,Sub_Portfolio,Sub_Portfolio_Description,Weighting,WeightingCode,Default_Category
+SGMA001,2023-12-29,1,S01,Souverains,S0101,Etat Marocain et sur Bank Al-Maghrib libellées et financées en dirhams,0,0,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0102,"Banque des Règlements Internationaux  le Fonds Monétaire International ",0,0,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0103,La Banque Centrale Européenne  la Commission Européenne.,0,0,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0104,Autre souverain noté : AAA à AA-,0,0,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0105,Autre souverain noté : A+ à A-,0.2,20.1,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0106,Autre souverain noté : BBB+ à BBB-,0.5,50,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0107,Autre souverain noté : BB+ à B-,1,100.1,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0108,Autre souverain noté : Inférieure à B-,1.5,150,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0109,Autre souverain  : Pas de notation,1,100.1,B0103
+SGMA001,2023-12-29,1,S01,Souverains,S0110,Avance sur Droit constaté,0,0,B0103
+SGMA001,2023-12-29,1,S02,Organismes publics,S0201,Organisme public noté : AAA à AA-,0,0,B0203
+SGMA001,2023-12-29,1,S02,Organismes publics,S0202,Organisme public noté : A+ à A-,0.2,20.1,B0203
+SGMA001,2023-12-29,1,S02,Organismes publics,S0203,Organisme public noté : BBB+ à BBB-,0.5,50,B0203
+SGMA001,2023-12-29,1,S02,Organismes publics,S0204,Organisme public noté : BB+ à B-,1,100.1,B0203
+SGMA001,2023-12-29,1,S02,Organismes publics,S0205,Organisme public noté : Inférieure à B-,1.5,150,B0203
+SGMA001,2023-12-29,1,S02,Organismes publics,S0206,Organisme public  : Pas de notation,0.5,50.1,B0203
+SGMA001,2023-12-29,1,S02,Organismes publics,S0207,Créances libellées et financées en dirhams sur les collectivités locales marocaines,0.2,20.1,B0203
+SGMA001,2023-12-29,1,S03,Banques multilatérales de développement,S0301,BMD noté : AAA à AA-,0,0,B0202
+SGMA001,2023-12-29,1,S03,Banques multilatérales de développement,S0302,BMD noté : A+ à A-,0.2,20.1,B0202
+SGMA001,2023-12-29,1,S03,Banques multilatérales de développement,S0303,BMD noté : BBB+ à BBB-,0.5,50,B0202
+SGMA001,2023-12-29,1,S03,Banques multilatérales de développement,S0304,BMD noté : BB+ à B-,1,10,B0202
+SGMA001,2023-12-29,1,S03,Banques multilatérales de développement,S0305,BMD noté : Inférieure à B-,1.5,150,B0202
+SGMA001,2023-12-29,1,S03,Banques multilatérales de développement,S0306,BMD  : Pas de notation,0.5,50.1,B0202
+SGMA001,2023-12-29,1,S03,Banques multilatérales de développement,S0307,BIRD SFI BAD,0,0,B0202
+SGMA001,2023-12-29,1,S04,Etablissements de crédit et assimilés,S0401,EC noté : AAA à AA-,0.2,20.1,B0201
+SGMA001,2023-12-29,1,S04,Etablissements de crédit et assimilés,S0402,EC noté : A+ à A-,0.5,50,B0201
+SGMA001,2023-12-29,1,S04,Etablissements de crédit et assimilés,S0403,EC noté : BBB+ à BBB-,0.5,50,B0201
+SGMA001,2023-12-29,1,S04,Etablissements de crédit et assimilés,S0404,EC noté : BB+ à B-,1,100.1,B0201
+SGMA001,2023-12-29,1,S04,Etablissements de crédit et assimilés,S0405,EC noté : Inférieure à B-,1.5,150,B0201
+SGMA001,2023-12-29,1,S04,Etablissements de crédit et assimilés,S0406,EC  : Pas de notation,0.5,50.1,B0201
+SGMA001,2023-12-29,1,S04,Etablissements de crédit et assimilés,S0407,Créances financées en monnaie locale et dont l’échéance initiale est égale ou inférieure à trois mois,0.2,20.1,B0201
+SGMA001,2023-12-29,1,S05,Entités exerçant des activités connexes à l’activité bancaire,S0501,Entité exerçant des activités connexes à l’activité bancaire noté : AAA à AA-,0.2,20.1,B0201
+SGMA001,2023-12-29,1,S05,Entités exerçant des activités connexes à l’activité bancaire,S0502,Entité exerçant des activités connexes à l’activité bancaire noté : A+ à A-,0.5,50,B0201
+SGMA001,2023-12-29,1,S05,Entités exerçant des activités connexes à l’activité bancaire,S0503,Entité exerçant des activités connexes à l’activité bancaire noté : BBB+ à BBB-,0.5,50,B0201
+SGMA001,2023-12-29,1,S05,Entités exerçant des activités connexes à l’activité bancaire,S0504,Entité exerçant des activités connexes à l’activité bancaire noté : BB+ à B-,1,100.1,B0201
+SGMA001,2023-12-29,1,S05,Entités exerçant des activités connexes à l’activité bancaire,S0505,Entité exerçant des activités connexes à l’activité bancaire noté : Inférieure à B-,1.5,150,B0201
+SGMA001,2023-12-29,1,S05,Entités exerçant des activités connexes à l’activité bancaire,S0506,Entité exerçant des activités connexes à l’activité bancaire  : Pas de notation,0.5,50.1,B0201
+SGMA001,2023-12-29,1,S05,Entités exerçant des activités connexes à l’activité bancaire,S0507,Créances financées en monnaie locale et dont l’échéance initiale est égale ou inférieure à trois mois,0.2,20.1,B0201
+SGMA001,2023-12-29,1,S06,Grandes entreprises et PME,S0601,Grandes entreprises,1,100.1,B0301
+SGMA001,2023-12-29,1,S06,Grandes entreprises et PME,S0602,Petite ou Moyenne Entreprise (PME),0.85,100.1,B0302
+SGMA001,2023-12-29,1,S07,TPE & Particuliers (Retail),S0701,Très petite entreprise (TPE),0.54,75,B0401
+SGMA001,2023-12-29,1,S07,TPE & Particuliers (Retail),S0702,Particuliers,0.75,75,B0402
+SGMA001,2023-12-29,1,S07,TPE & Particuliers (Retail),S0703,Particuliers (créances sup à 1M ),1,100.1,B0402
+SGMA001,2023-12-29,1,S08,Immobilier à usage résidentiel,S0801,Immobilier à usage résidentiel,0.35,35,B0402
+SGMA001,2023-12-29,1,S08,Immobilier à usage résidentiel,S0802,Immobilier à usage résidentiel,0.75,75,B0402
+SGMA001,2023-12-29,1,S09,Immobilier à usage commercial,S0901,Immobilier à usage commercial,1,100.3,NULL
+SGMA001,2023-12-29,1,S09,Immobilier à usage commercial,S0902,Crédits bails et LOA portant sur un bien immobilier à usage professionnel ou commercial (GE),0.5,50.3,B0301
+SGMA001,2023-12-29,1,S09,Immobilier à usage commercial,S0903,Crédits bails et LOA portant sur un bien immobilier à usage professionnel ou commercial (PME),0.5,50.3,B0302
+SGMA001,2023-12-29,1,S09,Immobilier à usage commercial,S0904,Crédits bails et LOA portant sur un bien immobilier à usage professionnel ou commercial (TPE),0.5,50.3,B0401
+SGMA001,2023-12-29,1,S10,Créances en souffrance,S1001,Créances en souffrance - provisions spécifiques sont inférieures à 20 %,1.5,150.1,B0402

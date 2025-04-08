@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,EntitySource,GL_internal_Number,Account,Description,Basel_In,Basel_Segment,Basel_Category,Credit_Conversion_Factor,Balance_Off_Sheet,Sens_Code,Is_Commitment,Is_Provision,Is_Doubtful,Is_Accrued_Interest,Sign,Exposition_Type,Is_security,Is_Mortgage,Cmdr_In,Cmdr_Conversion_Factor,Cmdr_Sens_Code,Cmdr_Weighting,Is_Doubtful_Excluded
+B001,2024-03-20,1,E1,GL001,ACC1001,Main Account,Yes,Retail,Low Risk,0.8,5000,S1,True,False,False,True,Positive,Type1,False,True,Cmdr1,1.2,C1,0.5,False
+B002,2024-03-21,1,E2,GL002,ACC1002,Savings Account,No,Corporate,Medium Risk,0.7,10000,S2,False,True,True,False,Negative,Type2,True,False,Cmdr2,1.3,C2,0.6,True
+B003,2024-03-22,2,E3,GL003,ACC1003,Loan Account,Yes,Retail,High Risk,0.6,2000,S3,True,False,False,True,Positive,Type3,False,True,Cmdr3,1.1,C3,0.4,False

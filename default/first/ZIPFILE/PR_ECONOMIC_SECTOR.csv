@@ -1,0 +1,38 @@
+﻿Bank_Code,Process_Date,Version,Economic_Sector,Description,Sub_Category,Cmdr_Weighting
+SGMA001,2023-12-29,1,011,Bank AL-Maghrib,B0101,0
+SGMA001,2023-12-29,1,012,Banques centrales à l'étranger,B0103,0
+SGMA001,2023-12-29,1,020,Trésor Public,B0101,0
+SGMA001,2023-12-29,1,030,Service de chèques postaux,B0201,0.2
+SGMA001,2023-12-29,1,111,Banques installées au Maroc,B0201,0.2
+SGMA001,2023-12-29,1,112,Stés de financement au Maroc,B0201,0.2
+SGMA001,2023-12-29,1,121,Caisse de Dépôt et de Gestion,B0201,0.2
+SGMA001,2023-12-29,1,122,Caisse Central de Garantie,B0201,0
+SGMA001,2023-12-29,1,123,Caisse d'Epargne Nationale,B0201,0.2
+SGMA001,2023-12-29,1,124,Bques offshor instal.au Maroc,B0201,0.2
+SGMA001,2023-12-29,1,125,Assoc de micro-crédit au Maroc,B0201,0.2
+SGMA001,2023-12-29,1,131,Banques à l'étranger,B0201,0.2
+SGMA001,2023-12-29,1,132,Autre établis.créd.à l'étrang,B0201,0.2
+SGMA001,2023-12-29,1,133,"Siège,succur et agen à l'étran",B0201,0.2
+SGMA001,2023-12-29,1,140,Bques multilatér de développem,B0202,0
+SGMA001,2023-12-29,1,150,Organismes financiers internat,B0201,0
+SGMA001,2023-12-29,1,190,Autr organis.bailleurs de fond,B0201,0.2
+SGMA001,2023-12-29,1,210,Cgnies d'assur et de réassuran,B0301,1
+SGMA001,2023-12-29,1,221,Org prév retrait à régi oblig,B0301,1
+SGMA001,2023-12-29,1,222,Aut org de prévoy et retraite,B0301,1
+SGMA001,2023-12-29,1,231,OPCVM monétaire de capitalisat,B0301,1
+SGMA001,2023-12-29,1,232,OPCVM monétaire de distributio,B0301,1
+SGMA001,2023-12-29,1,236,OPCVM non monéta de capitalisa,B0301,1
+SGMA001,2023-12-29,1,237,OPCVM non monét de distributio,B0301,1
+SGMA001,2023-12-29,1,240,Fond de place collect en titri,B0301,1
+SGMA001,2023-12-29,1,250,Sociétés de bourse,B0301,1
+SGMA001,2023-12-29,1,270,Sociétés de gestion de plle,B0301,1
+SGMA001,2023-12-29,1,280,Compagnies financières,B0301,1
+SGMA001,2023-12-29,1,290,Autre clientèle financière,B0301,1
+SGMA001,2023-12-29,1,310,Entreprises non financ publiqu,B0301,1
+SGMA001,2023-12-29,1,320,Sociétés non financières privé,B0301,1
+SGMA001,2023-12-29,1,330,Entrepreneurs individuels,B0301,1
+SGMA001,2023-12-29,1,341,Personnel de l'établissement,B0402,1
+SGMA001,2023-12-29,1,342,Autres particuliers,B0402,1
+SGMA001,2023-12-29,1,351,Administra publiques centrales,B0102,0
+SGMA001,2023-12-29,1,352,Administra publiques locales,B0203,0.2
+SGMA001,2023-12-29,1,360,Institutions à but n/ lucratif,B0301,1

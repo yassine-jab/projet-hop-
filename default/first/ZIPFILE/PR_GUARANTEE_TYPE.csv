@@ -1,0 +1,27 @@
+﻿Bank_Code,Process_Date,Version,EntitySource,Guarantee_Account,Guarantee_Type_Description,Guarantee_Class,Guarantee_Weighting,In_COREP,In_CMDR,Guarantee_Weighting_Cmdr,IsMortgage,Guarantee_Source_Type
+SGMA001,2023-12-29,1,SGLM,3331," DEPOTS DE GARANTIE",S1,1,1,1,1,0,TRA
+SGMA001,2023-12-29,1,SGMA,2081,DEPOTS DE GARANTIE POR OUV CREDIT DOCUMENTAIR,S1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,2082,DEPOTS DE GARANTIE POUR ENGAGTS PAR SIGNATURE,S1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,2083,"DEPOTS DE GARANTIE POUR LOCATION DE COFFRES  ",S1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,2084,"RETENUE DE GARANTIE                          ",S1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,2086,"AUTRES DEPOTS DE GARANTIE                    ",S1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8312,"CONTRE-GARANTIES RECUES S/ENGAGTS PAR SIGN.  ",G0,1,0,1,1,0,NULL
+SGMA001,2023-12-29,1,SGMA,8720," VALEURS EMISES OU GARANTIES PAR L'ETAT        ",G1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8731," NOS COMPTES A TERME                           ",S1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8732," NOS BONS DE CAISSE                            ",S1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8735,Nos valeurs reçus en garantie (Nos certificats de dépôt),NULL,NULL,0,0,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8736,Nos valeurs reçus en garantie (Nos bons de sociétés de financement),NULL,NULL,0,0,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8739,Nos valeurs reçus en garantie (Autres valeurs),NULL,NULL,0,0,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8741," COMPTES A TERME                               ",G3,0.5,1,1,0.5,0,ACC
+SGMA001,2023-12-29,1,SGMA,8742," BONS DE CAISSE                                ",G3,0.5,1,1,0.5,0,ACC
+SGMA001,2023-12-29,1,SGMA,8745,Valeurs émises par d’autres établissements de crédit et assimilés reçues en garantie (Certificats de dépôt),NULL,NULL,0,0,0.5,0,ACC
+SGMA001,2023-12-29,1,SGMA,8746,Valeurs émises par d’autres établissements de crédit et assimilés reçues en garantie (Bons de sociétés de financement),NULL,NULL,0,0,0.5,0,ACC
+SGMA001,2023-12-29,1,SGMA,8749,Valeurs émises par d’autres établissements de crédit et assimilés reçues en garantie (Autres valeurs),NULL,NULL,0,0,0.5,0,ACC
+SGMA001,2023-12-29,1,SGMA,8752," OBLIGATIONS                                   ",G3,0.5,1,1,0.5,0,ACC
+SGMA001,2023-12-29,1,SGMA,8755," ACTIONS                                       ",S4,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8756," AUTRES TITRES DE PROPRIETE                    ",S4,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8759," DIVERSES AUTRES VALEURS                       ",S4,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8761,"HYPOTHEQUE             ",NULL,NULL,0,0,NULL,1,MAN
+SGMA001,2023-12-29,1,SGMA,8762," NANTISSEMENT MARCHES PUBLICS                  ",G1,1,1,1,1,0,ACC
+SGMA001,2023-12-29,1,SGMA,8769,Plan Epargne LMV,S1,1,1,1,1,NULL,ACC
+SGMA001,2023-12-29,1,SGOS,2082,DEPOTS DE GARANTIE POUR ENGAGTS PAR SIGNATURE,S1,1,1,1,1,0,POS

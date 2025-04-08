@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,EntitySource,Internal_Account_Number,Currency_Code,Customer_Code,Accounting_Branch,Opening_Date,Product_Code,Accounting_Balance_in_local_currency,Accounting_Balance_in_currency,GL_internal_Number,GL_reporting_Number,Doubtful_Status,Provision_affected_amount,Provision_amount_total_currency,DataSource,Attribute_1,Attribute_2,Attribute_3,Attribute_4,Attribute_5
+B001,2024-03-20,1,E1,IA1001,USD,CUST001,BR01,2023-01-15,P001,10000,9500,GL001,GR001,0,500,550,DS1,A1,B1,C1,D1,E1
+B002,2024-03-21,1,E2,IA1002,EUR,CUST002,BR02,2023-02-10,P002,15000,14000,GL002,GR002,1,700,750,DS2,A2,B2,C2,D2,E2
+B003,2024-03-22,2,E3,IA1003,GBP,CUST003,BR03,2023-03-05,P003,20000,19000,GL003,GR003,0,300,320,DS3,A3,B3,C3,D3,E3

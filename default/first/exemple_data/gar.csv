@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,EntitySource,Internal_Contract_Number,Guarantee_assigned
+B001,2024-03-20,1,Entity A,ICN123,Yes
+B002,2024-03-20,1,Entity B,ICN456,No
+B003,2024-03-20,1,Entity C,ICN789,Yes

@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,Economic_Sector,Description,Sub_Category,Cmdr_Weighting
+B001,2024-03-20,1,Finance,Banking services,Retail Banking,0.8
+B002,2024-03-20,1,Technology,Software development,Cloud Computing,0.6
+B003,2024-03-20,1,Healthcare,Medical services,Pharmaceuticals,0.7

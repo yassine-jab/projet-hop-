@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,EntitySource,Internal_Contract_Number,GL_internal_Number,Guarantee_assigned_amount
+B001,2024-03-20,1,Entity X,ICN101,GL001,10000
+B002,2024-03-21,1,Entity Y,ICN102,GL002,15000
+B003,2024-03-22,1,Entity Z,ICN103,GL003,20000

@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,Customer_Code,Customer_First_Name,Customer_Last_Name,Company_Name,Customer_Type,Customer_ID_Type,Customer_ID_Number,Company_group,Economic_Sector,Activity_Area,Internal_Segment,Internal_Notation,External_Notation,Business_Category,Commitment_Amount,Default_Amount_in_Industry,Rating,Turnover,Attribute_1,Attribute_2,Attribute_3,Attribute_4,Attribute_5
+B001,2024-03-20,1,CUST001,John,Doe,Company A,Individual,ID,123456,Group1,Finance,Banking,Segment1,A,AA,Large,50000,2000,High,1000000,X1,Y1,Z1,W1,V1
+B002,2024-03-21,1,CUST002,Alice,Smith,Company B,Corporate,Passport,789012,Group2,Retail,E-commerce,Segment2,B,BB,Medium,75000,3000,Medium,1500000,X2,Y2,Z2,W2,V2
+B003,2024-03-22,2,CUST003,Robert,Brown,Company C,Individual,ID,345678,Group3,Tech,Software,Segment3,C,CC,Small,100000,5000,Low,2000000,X3,Y3,Z3,W3,V3

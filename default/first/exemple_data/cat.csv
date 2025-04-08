@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,Category,Category_Description,Sub_Category,Sub_Category_Description,Sub_Portfolio
+B001,2024-03-20,1,Risk,High Risk,Credit,Credit Card,Portfolio A
+B002,2024-03-20,1,Risk,Low Risk,Loan,Personal Loan,Portfolio B
+B003,2024-03-20,1,Asset,Fixed Asset,Investment,Real Estate,Portfolio C

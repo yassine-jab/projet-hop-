@@ -1,0 +1,4 @@
+Bank_Code,Process_Date,Version,EntitySource,Guarantee_Account,Guarantee_Type_Description,Guarantee_Class,Guarantee_Weighting,In_COREP,In_CMDR,IsMortgage,Guarantee_Source_Type,Guarantee_Weighting_C
+B001,2024-03-01,V1,SourceA,GA12345,Type A,Class 1,0.85,True,False,False,Source X,0.75
+B002,2024-03-02,V1,SourceB,GA67890,Type B,Class 2,0.9,False,True,True,Source Y,0.8
+B003,2024-03-03,V1,SourceC,GA54321,Type C,Class 3,0.7,True,True,False,Source Z,0.65
